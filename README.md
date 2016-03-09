@@ -1,1 +1,1 @@
-![Design Sprint](/Assets/design-sprint.png?raw=true "Design Sprint")
+![Design Sprint](/images/design-sprint.png?raw=true "Design Sprint")
