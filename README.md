@@ -51,12 +51,12 @@ Keep these things to keep in mind with your Design Sprint:
 
 **Watching**
 
-- [Design Sprints at Google](https://www.youtube.com/watch?v=137XnWlUTKY)
-- [Overview of Design Sprints at GV](https://youtu.be/qvdO0G4uQgc)
-- [Five Act Interview](https://www.youtube.com/watch?v=U9ZG19XTbd4&feature=youtu.be)
-- [Understanding the Job of Your Product](https://www.youtube.com/watch?v=f84LymEs67Y)
-- [The Design Sprint: from Google Ventures to Google X](https://www.youtube.com/v/aWQUSiOZ0x8?start=341&end=1442)
-- [DXLab Design Sprint](https://vimeo.com/102282054)
+- [Design Sprints at Google `4:02`](https://www.youtube.com/watch?v=137XnWlUTKY)
+- [Overview of Design Sprints at GV `4:03`](https://youtu.be/qvdO0G4uQgc)
+- [Five Act Interview `7:47`](https://www.youtube.com/watch?v=U9ZG19XTbd4&feature=youtu.be)
+- [Understanding the Job of Your Product `4:55`](https://www.youtube.com/watch?v=f84LymEs67Y)
+- [The Design Sprint: from Google Ventures to Google X `45:54`](https://www.youtube.com/v/aWQUSiOZ0x8?start=341&end=1442)
+- [DXLab Design Sprint `2:40`](https://vimeo.com/102282054)
 
 **Tools**
 
