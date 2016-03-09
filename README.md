@@ -29,10 +29,12 @@ Keep these things to keep in mind with your Design Sprint:
 - Make sure the executives are included in the Understand and Converge phases
 
 
-##Design Sprint: Resources
+##More Resources
 
-**Articles**
+**Reading**
  
+- ["Sprint" by Jake Knapp](http://goo.gl/tv77Tz)
+- ["Design Sprint" by Richard Banfield](http://goo.gl/dqQ96p)
 - [Running a Google Design Sprint from start to end](http://hackingui.com/design/design-sprint/)
 - [thoughtbot: The Product Design Sprint](https://robots.thoughtbot.com/the-product-design-sprint)
 - [How to Run a Product Design Sprint](http://www.tandemseven.com/blog/ux-agile-run-product-design-sprint/)
@@ -41,31 +43,22 @@ Keep these things to keep in mind with your Design Sprint:
 - [Why design agencies should embrace sprints](https://medium.com/@dburka/why-design-agencies-should-embrace-sprints-c5164a852178)
 - [Personal Design Sprint](http://designsprints.com/design-sprint/)
 - [Interviewing users](https://www.nngroup.com/articles/interviewing-users/)
-
-**Books**
-
-- ["Sprint" by Jake Knapp](http://goo.gl/tv77Tz)
-- ["Design Sprint" by Richard Banfield](http://goo.gl/dqQ96p)
-
-**Guides**
-
 - [GV Design Sprint](http://www.gv.com/sprint/)
 - [Google Design Sprint](https://developers.google.com/design-sprint)
 - [thoughtbot Design Sprint](https://github.com/thoughtbot/design-sprint)
 - [Dockyard Design Sprint](https://dockyard.com/design-sprints)
 - [Hanno Design Sprint](https://hanno.co/what-we-do/sprint/)
-- [IDEO Design Thinking](http://www.designkit.org/)
+
+**Watching**
+
+- [Design Sprints at Google](https://www.youtube.com/watch?v=137XnWlUTKY)
+- [Overview of Design Sprints at GV](https://youtu.be/qvdO0G4uQgc)
+- [Five Act Interview](https://www.youtube.com/watch?v=U9ZG19XTbd4&feature=youtu.be)
+- [Understanding the Job of Your Product](https://www.youtube.com/watch?v=f84LymEs67Y)
+- [The Design Sprint: from Google Ventures to Google X](https://www.youtube.com/v/aWQUSiOZ0x8?start=341&end=1442)
+- [DXLab Design Sprint](https://vimeo.com/102282054)
 
 **Tools**
 
 - [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/use_cases)
-- [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
-
-**Videos**
-
-- [Five Act Interview](https://www.youtube.com/watch?v=U9ZG19XTbd4&feature=youtu.be)
-- [Understanding the Job of Your Product](https://www.youtube.com/watch?v=f84LymEs67Y)
-- [The Design Sprint: from Google Ventures to Google X](https://www.youtube.com/v/aWQUSiOZ0x8?start=341&end=1442)
-- [Design Sprints at Google](https://www.youtube.com/watch?v=137XnWlUTKY)
-- [Overview of Design Sprints at GV](https://youtu.be/qvdO0G4uQgc)
-- [DXLab Design Sprint](https://vimeo.com/102282054)
+- [IDEO Design Thinking](http://www.designkit.org/)
