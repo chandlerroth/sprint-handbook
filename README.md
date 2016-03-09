@@ -33,21 +33,21 @@ Keep these things to keep in mind with your Design Sprint:
 
 **Reading**
  
-- ["Sprint" by Jake Knapp](http://goo.gl/tv77Tz)
-- ["Design Sprint" by Richard Banfield](http://goo.gl/dqQ96p)
-- [Running a Google Design Sprint from start to end](http://hackingui.com/design/design-sprint/)
-- [thoughtbot: The Product Design Sprint](https://robots.thoughtbot.com/the-product-design-sprint)
-- [How to Run a Product Design Sprint](http://www.tandemseven.com/blog/ux-agile-run-product-design-sprint/)
-- [How we completed a 5 day Design Sprint in 3 days](http://blog.invisionapp.com/design-sprint/)
-- [Sprint to the finish](https://medium.com/@gbeldam/sprint-to-the-finish-40bd9edba63e#.bxyueloge)
-- [Why design agencies should embrace sprints](https://medium.com/@dburka/why-design-agencies-should-embrace-sprints-c5164a852178)
-- [Personal Design Sprint](http://designsprints.com/design-sprint/)
-- [Interviewing users](https://www.nngroup.com/articles/interviewing-users/)
-- [GV Design Sprint](http://www.gv.com/sprint/)
-- [Google Design Sprint](https://developers.google.com/design-sprint)
-- [thoughtbot Design Sprint](https://github.com/thoughtbot/design-sprint)
-- [Dockyard Design Sprint](https://dockyard.com/design-sprints)
-- [Hanno Design Sprint](https://hanno.co/what-we-do/sprint/)
+- ["Sprint" by Jake Knapp `Book`](http://goo.gl/tv77Tz)
+- [GV Design Sprint `Guide`](http://www.gv.com/sprint/)
+- [thoughtbot: The Product Design Sprint `Article`](https://robots.thoughtbot.com/the-product-design-sprint)
+- ["Design Sprint" by Richard Banfield `Book`](http://goo.gl/dqQ96p)
+- [thoughtbot Design Sprint `Guide`](https://github.com/thoughtbot/design-sprint)
+- [Running a Google Design Sprint from start to end `Article`](http://hackingui.com/design/design-sprint/)
+- [How to Run a Product Design Sprint `Article`](http://www.tandemseven.com/blog/ux-agile-run-product-design-sprint/)
+- [How we completed a 5 day Design Sprint in 3 days `Article`](http://blog.invisionapp.com/design-sprint/)
+- [Sprint to the finish `Article`](https://medium.com/@gbeldam/sprint-to-the-finish-40bd9edba63e#.bxyueloge)
+- [Why design agencies should embrace sprints `Article`](https://medium.com/@dburka/why-design-agencies-should-embrace-sprints-c5164a852178)
+- [Personal Design Sprint `Article`](http://designsprints.com/design-sprint/)
+- [Interviewing users `Article`](https://www.nngroup.com/articles/interviewing-users/)
+- [Google Design Sprint `Guide`](https://developers.google.com/design-sprint)
+- [Dockyard Design Sprint `Guide`](https://dockyard.com/design-sprints)
+- [Hanno Design Sprint `Guide`](https://hanno.co/what-we-do/sprint/)
 
 **Watching**
 
