@@ -12,13 +12,13 @@ The art of the Design Sprint is creating, capturing, and channeling the energy a
 
 ##Design Sprint: Boiled Down
 
-The Design Sprint covers 5 steps, and is usually conducted in 5 days:
+The Design Sprint is made up of five phases, and a day is usually dedicated to each phase:
 
-- Understand (or INSPIRATION) — What are the user needs, business need and technology capacities? (Desirability, Viability, Feasibility)
-- Diverge (or IDEATION) — How might we explore as many ideas as possible?
-- Converge — Select the best ideas so far.
-- Prototype (or IMPLEMENTATION) — Create artifacts that allows you to test the ideas with users.
-- Validate — Test the ideas with users, business stakeholders and technical experts.
+- **Understand** — What are the user needs, business need and technology capacities? (Desirability, Viability, Feasibility)
+- **Diverge** — How might we explore as many ideas as possible?
+- **Converge** — Select the best ideas so far.
+- **Prototype** — Create artifacts that allows you to test the ideas with users.
+- **Validate** — Test the ideas with users, business stakeholders and technical experts.
 
 Keep these things to keep in mind with your Design Sprint:
 
