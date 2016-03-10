@@ -10,8 +10,6 @@ GV has used this method for 100+ startups, helping them realize their maximum po
 
 The art of the Design Sprint is creating, capturing, and channeling the energy and passion for a product or service in your design team. You want to build a solid, energetic jumping off point for the project as a whole, and create enough initial energy to make it through the entire project.
 
-![Design Sprint Overview](https://www.youtube.com/watch?v=137XnWlUTKY "Design Sprint Overview")
-
 ##Design Sprint: Boiled Down
 
 The Design Sprint is made up of five phases, and a day is usually dedicated to each phase:
