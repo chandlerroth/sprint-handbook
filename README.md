@@ -1,4 +1,4 @@
-![Design Sprint](/images/design-sprint.png?raw=true "Design Sprint")
+![Design Sprint](/Assets/design-sprint.png?raw=true "Design Sprint")
 
 #A Guide to the Design Sprint
 
@@ -9,6 +9,8 @@ The idea of the Design Sprint is simple: shortcut the entire Lean UX Process by 
 GV has used this method for 100+ startups, helping them realize their maximum potential. With this method you either build something awesome, or you learn from your mistakes; both are super valuable.
 
 The art of the Design Sprint is creating, capturing, and channeling the energy and passion for a product or service in your design team. You want to build a solid, energetic jumping off point for the project as a whole, and create enough initial energy to make it through the entire project.
+
+![Design Sprint Overview](https://www.youtube.com/watch?v=137XnWlUTKY "Design Sprint Overview")
 
 ##Design Sprint: Boiled Down
 
@@ -28,11 +30,10 @@ Keep these things to keep in mind with your Design Sprint:
 - Prepare well, it makes the sprint energetic and enjoyable
 - Make sure the executives are included in the Understand and Converge phases
 
-
 ##More Resources
 
 **Reading**
- 
+
 - ["Sprint" by Jake Knapp `Book`](http://goo.gl/tv77Tz)
 - [GV Design Sprint `Guide`](http://www.gv.com/sprint/)
 - [thoughtbot: The Product Design Sprint `Article`](https://robots.thoughtbot.com/the-product-design-sprint)
