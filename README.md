@@ -1,6 +1,6 @@
 ![Design Sprint](/Assets/design-sprint.png?raw=true "Design Sprint")
 
-#A Guide to the Design Sprint
+# A Guide to the Design Sprint
 
 Learn early, learn often. Design matters. Speed matters. You either win or you learn.
 
@@ -10,7 +10,7 @@ GV has used this method for 100+ startups, helping them realize their maximum po
 
 The art of the Design Sprint is creating, capturing, and channeling the energy and passion for a product or service in your design team. You want to build a solid, energetic jumping off point for the project as a whole, and create enough initial energy to make it through the entire project.
 
-##Design Sprint: Boiled Down
+## Design Sprint: Boiled Down
 
 The Design Sprint is made up of five phases, and a day is usually dedicated to each phase:
 
@@ -28,7 +28,7 @@ Keep these things to keep in mind with your Design Sprint:
 - Prepare well, it makes the sprint energetic and enjoyable
 - Make sure the executives are included in the Understand and Converge phases
 
-##More Resources
+## More Resources
 
 **Reading**
 
